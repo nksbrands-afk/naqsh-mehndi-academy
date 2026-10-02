@@ -1,0 +1,17 @@
+NAQSH MEHNDI ACADEMY — WORKING FRONT-END WEBSITE
+
+Included working customer flow:
+1. Public £49 sales page
+2. Responsive navigation and calls to action
+3. Demo checkout
+4. Student dashboard
+5. Progress indicator
+6. Course/module interface
+7. Individual lesson screen
+8. Practice challenge
+9. NAQSH Pro £997 ascension page
+
+VISUAL RULE:
+No female faces should be shown anywhere in production creative. Use hands, wrists, cropped arms, henna application close-ups, cones, practice sheets, textiles and hands positioned to obscure faces.
+
+Before taking real payments, connect a payment processor, authentication, database/progress storage, video hosting and email delivery. Replace all concept imagery with licensed/original production photography following the no-face rule.

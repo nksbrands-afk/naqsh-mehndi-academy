@@ -1,0 +1,1 @@
+Open index.html. Funnel: sales page → £49 demo checkout → student dashboard → lesson. Open NAQSH Pro from the dashboard.
